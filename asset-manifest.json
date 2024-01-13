@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fitness-app/static/css/main.bfcf6635.css",
-    "main.js": "/fitness-app/static/js/main.bf91f45d.js",
+    "main.css": "/fitness-app/static/css/main.be56ba96.css",
+    "main.js": "/fitness-app/static/js/main.f676c089.js",
     "static/media/gym.png": "/fitness-app/static/media/gym.009cfa7fdbef1b330138.png",
     "static/media/banner.png": "/fitness-app/static/media/banner.f2ddaf1b2c0dfb5c5122.png",
     "static/media/Logo-1.png": "/fitness-app/static/media/Logo-1.468575eca3506472e82d.png",
     "static/media/Logo.png": "/fitness-app/static/media/Logo.4850994f492d3aec382e.png",
     "index.html": "/fitness-app/index.html",
-    "main.bfcf6635.css.map": "/fitness-app/static/css/main.bfcf6635.css.map",
-    "main.bf91f45d.js.map": "/fitness-app/static/js/main.bf91f45d.js.map"
+    "main.be56ba96.css.map": "/fitness-app/static/css/main.be56ba96.css.map",
+    "main.f676c089.js.map": "/fitness-app/static/js/main.f676c089.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfcf6635.css",
-    "static/js/main.bf91f45d.js"
+    "static/css/main.be56ba96.css",
+    "static/js/main.f676c089.js"
   ]
 }
